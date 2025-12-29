@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AraysUse/AraysUse.csproj" />
+  <Project Path="BasicOfBasics/BasicOfBasics.csproj" />
+  <Project Path="CollectionsAndGenerics/CollectionsAndGenerics.csproj" />
+  <Project Path="Day7_MultipleInheritance/Day7_MultipleInheritance.csproj" />
+  <Project Path="FlipKeyLogicProblem/FlipKeyLogicProblem.csproj" />
+</Solution>
