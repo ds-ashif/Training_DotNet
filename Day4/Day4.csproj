@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- <StartupObject>Day4Constructor.CallField</StartupObject> -->
+    <!-- <StartupObject>Day4Constructor.CallAssociate</StartupObject> -->
+    <!-- <StartupObject>Day4Constructor.CallAccount</StartupObject> -->
+    <StartupObject>Day4Constructor.CallFamily</StartupObject>
+
+
+
+
+  </PropertyGroup>
+
+</Project>

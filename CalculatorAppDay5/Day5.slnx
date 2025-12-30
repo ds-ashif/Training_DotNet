@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AbstractClassUsage/AbstractClassUsage.csproj" Id="f0bcfff7-3044-42b7-805c-071c23513491" />
+  <Project Path="CalculatorAppDay5/CalculatorAppDay5.csproj" />
+  <Project Path="CommonLib/CommonLib.csproj" />
+  <Project Path="EmployeeTax/EmployeeTax.csproj" />
+  <Project Path="MathsLib/MathsLib.csproj" />
+  <Project Path="ScienceLib/ScienceLib.csproj" />
+</Solution>

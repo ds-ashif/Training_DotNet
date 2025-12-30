@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\capgeminiTraining\\CalculatorAppDay5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BCFFF7-3044-42B7-805C-071C23513491}|AbstractClassUsage\\AbstractClassUsage.csproj|d:\\capgeminitraining\\calculatorappday5\\abstractclassusage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BCFFF7-3044-42B7-805C-071C23513491}|AbstractClassUsage\\AbstractClassUsage.csproj|solutionrelative:abstractclassusage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BCFFF7-3044-42B7-805C-071C23513491}|AbstractClassUsage\\AbstractClassUsage.csproj|d:\\capgeminitraining\\calculatorappday5\\abstractclassusage\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BCFFF7-3044-42B7-805C-071C23513491}|AbstractClassUsage\\AbstractClassUsage.csproj|solutionrelative:abstractclassusage\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB747D82-2A4A-FE45-C334-541D612A728B}|CalculatorAppDay5\\CalculatorAppDay5.csproj|d:\\capgeminitraining\\calculatorappday5\\calculatorappday5\\calculatorappday5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB747D82-2A4A-FE45-C334-541D612A728B}|CalculatorAppDay5\\CalculatorAppDay5.csproj|solutionrelative:calculatorappday5\\calculatorappday5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31394B4-4E6A-144A-CEC4-CE3BFC523B18}|EmployeeTax\\EmployeeTax.csproj|d:\\capgeminitraining\\calculatorappday5\\employeetax\\usemptax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31394B4-4E6A-144A-CEC4-CE3BFC523B18}|EmployeeTax\\EmployeeTax.csproj|solutionrelative:employeetax\\usemptax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31394B4-4E6A-144A-CEC4-CE3BFC523B18}|EmployeeTax\\EmployeeTax.csproj|d:\\capgeminitraining\\calculatorappday5\\employeetax\\caltax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31394B4-4E6A-144A-CEC4-CE3BFC523B18}|EmployeeTax\\EmployeeTax.csproj|solutionrelative:employeetax\\caltax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB747D82-2A4A-FE45-C334-541D612A728B}|CalculatorAppDay5\\CalculatorAppDay5.csproj|d:\\capgeminitraining\\calculatorappday5\\calculatorappday5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB747D82-2A4A-FE45-C334-541D612A728B}|CalculatorAppDay5\\CalculatorAppDay5.csproj|solutionrelative:calculatorappday5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9568C064-286F-6612-8B85-C68D9CF389BA}|MathsLib\\MathsLib.csproj|d:\\capgeminitraining\\calculatorappday5\\mathslib\\securitycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9568C064-286F-6612-8B85-C68D9CF389BA}|MathsLib\\MathsLib.csproj|solutionrelative:mathslib\\securitycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9568C064-286F-6612-8B85-C68D9CF389BA}|MathsLib\\MathsLib.csproj|d:\\capgeminitraining\\calculatorappday5\\mathslib\\mathslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9568C064-286F-6612-8B85-C68D9CF389BA}|MathsLib\\MathsLib.csproj|solutionrelative:mathslib\\mathslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB747D82-2A4A-FE45-C334-541D612A728B}|CalculatorAppDay5\\CalculatorAppDay5.csproj|d:\\capgeminitraining\\calculatorappday5\\calculatorappday5\\calculatorappday5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FB747D82-2A4A-FE45-C334-541D612A728B}|CalculatorAppDay5\\CalculatorAppDay5.csproj|solutionrelative:calculatorappday5\\calculatorappday5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB747D82-2A4A-FE45-C334-541D612A728B}|CalculatorAppDay5\\CalculatorAppDay5.csproj|d:\\capgeminitraining\\calculatorappday5\\calculatorappday5\\normalmaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB747D82-2A4A-FE45-C334-541D612A728B}|CalculatorAppDay5\\CalculatorAppDay5.csproj|solutionrelative:calculatorappday5\\normalmaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9F0FEA-EF43-CD4C-8F16-D2B0D1DC5357}|CommonLib\\CommonLib.csproj|d:\\capgeminitraining\\calculatorappday5\\commonlib\\loginabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9F0FEA-EF43-CD4C-8F16-D2B0D1DC5357}|CommonLib\\CommonLib.csproj|solutionrelative:commonlib\\loginabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9568C064-286F-6612-8B85-C68D9CF389BA}|MathsLib\\MathsLib.csproj|d:\\capgeminitraining\\calculatorappday5\\mathslib\\mathslib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9568C064-286F-6612-8B85-C68D9CF389BA}|MathsLib\\MathsLib.csproj|solutionrelative:mathslib\\mathslib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31394B4-4E6A-144A-CEC4-CE3BFC523B18}|EmployeeTax\\EmployeeTax.csproj|d:\\capgeminitraining\\calculatorappday5\\employeetax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31394B4-4E6A-144A-CEC4-CE3BFC523B18}|EmployeeTax\\EmployeeTax.csproj|solutionrelative:employeetax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9568C064-286F-6612-8B85-C68D9CF389BA}|MathsLib\\MathsLib.csproj|d:\\capgeminitraining\\calculatorappday5\\mathslib\\algebra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9568C064-286F-6612-8B85-C68D9CF389BA}|MathsLib\\MathsLib.csproj|solutionrelative:mathslib\\algebra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31394B4-4E6A-144A-CEC4-CE3BFC523B18}|EmployeeTax\\EmployeeTax.csproj|d:\\capgeminitraining\\calculatorappday5\\employeetax\\indianemptax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31394B4-4E6A-144A-CEC4-CE3BFC523B18}|EmployeeTax\\EmployeeTax.csproj|solutionrelative:employeetax\\indianemptax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C594929A-A970-694F-FF99-7C47E30B048B}|ScienceLib\\ScienceLib.csproj|d:\\capgeminitraining\\calculatorappday5\\sciencelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C594929A-A970-694F-FF99-7C47E30B048B}|ScienceLib\\ScienceLib.csproj|solutionrelative:sciencelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\AbstractClassUsage\\Payment.cs",
+              "RelativeDocumentMoniker": "AbstractClassUsage\\Payment.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\AbstractClassUsage\\Payment.cs",
+              "RelativeToolTip": "AbstractClassUsage\\Payment.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:19:55.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\AbstractClassUsage\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClassUsage\\Program.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\AbstractClassUsage\\Program.cs",
+              "RelativeToolTip": "AbstractClassUsage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T09:19:23.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalculatorAppDay5",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\CalculatorAppDay5\\CalculatorAppDay5.csproj",
+              "RelativeDocumentMoniker": "CalculatorAppDay5\\CalculatorAppDay5.csproj",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\CalculatorAppDay5\\CalculatorAppDay5.csproj",
+              "RelativeToolTip": "CalculatorAppDay5\\CalculatorAppDay5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T08:50:29.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MathsLogin.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\MathsLib\\MathsLogin.cs",
+              "RelativeDocumentMoniker": "MathsLib\\MathsLogin.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\MathsLib\\MathsLogin.cs",
+              "RelativeToolTip": "MathsLib\\MathsLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:41:42.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecurityCheck.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\MathsLib\\SecurityCheck.cs",
+              "RelativeDocumentMoniker": "MathsLib\\SecurityCheck.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\MathsLib\\SecurityCheck.cs",
+              "RelativeToolTip": "MathsLib\\SecurityCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:36:08.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\CalculatorAppDay5\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorAppDay5\\Program.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\CalculatorAppDay5\\Program.cs",
+              "RelativeToolTip": "CalculatorAppDay5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T04:42:58.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalTax.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\EmployeeTax\\CalTax.cs",
+              "RelativeDocumentMoniker": "EmployeeTax\\CalTax.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\EmployeeTax\\CalTax.cs",
+              "RelativeToolTip": "EmployeeTax\\CalTax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T05:51:10.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "USEmpTax.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\EmployeeTax\\USEmpTax.cs",
+              "RelativeDocumentMoniker": "EmployeeTax\\USEmpTax.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\EmployeeTax\\USEmpTax.cs",
+              "RelativeToolTip": "EmployeeTax\\USEmpTax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:01:43.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorAppDay5.csproj",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\CalculatorAppDay5\\CalculatorAppDay5.csproj",
+              "RelativeDocumentMoniker": "CalculatorAppDay5\\CalculatorAppDay5.csproj",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\CalculatorAppDay5\\CalculatorAppDay5.csproj",
+              "RelativeToolTip": "CalculatorAppDay5\\CalculatorAppDay5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T04:44:10.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NormalMaths.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\CalculatorAppDay5\\NormalMaths.cs",
+              "RelativeDocumentMoniker": "CalculatorAppDay5\\NormalMaths.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\CalculatorAppDay5\\NormalMaths.cs",
+              "RelativeToolTip": "CalculatorAppDay5\\NormalMaths.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T04:56:24.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginAbs.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\CommonLib\\LoginAbs.cs",
+              "RelativeDocumentMoniker": "CommonLib\\LoginAbs.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\CommonLib\\LoginAbs.cs",
+              "RelativeToolTip": "CommonLib\\LoginAbs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:30:57.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MathsLib.csproj",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\MathsLib\\MathsLib.csproj",
+              "RelativeDocumentMoniker": "MathsLib\\MathsLib.csproj",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\MathsLib\\MathsLib.csproj",
+              "RelativeToolTip": "MathsLib\\MathsLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T06:34:55.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\EmployeeTax\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeTax\\Program.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\EmployeeTax\\Program.cs",
+              "RelativeToolTip": "EmployeeTax\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T05:50:32.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Algebra.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\MathsLib\\Algebra.cs",
+              "RelativeDocumentMoniker": "MathsLib\\Algebra.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\MathsLib\\Algebra.cs",
+              "RelativeToolTip": "MathsLib\\Algebra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T04:47:21.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IndianEmpTax.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\EmployeeTax\\IndianEmpTax.cs",
+              "RelativeDocumentMoniker": "EmployeeTax\\IndianEmpTax.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\EmployeeTax\\IndianEmpTax.cs",
+              "RelativeToolTip": "EmployeeTax\\IndianEmpTax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:01:30.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\capgeminiTraining\\CalculatorAppDay5\\ScienceLib\\Class1.cs",
+              "RelativeDocumentMoniker": "ScienceLib\\Class1.cs",
+              "ToolTip": "D:\\capgeminiTraining\\CalculatorAppDay5\\ScienceLib\\Class1.cs",
+              "RelativeToolTip": "ScienceLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T04:48:21.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
