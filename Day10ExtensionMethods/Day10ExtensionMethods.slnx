@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../RegEx/RegEx.csproj" />
+  <Project Path="Day10ExtensionMethods.csproj" />
+</Solution>
