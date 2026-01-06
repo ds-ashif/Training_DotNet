@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../PartialClassUsage/PartialClassUsage.csproj" Id="83a885dd-6ec3-45ba-a330-a0c5c4806e35" />
+  <Project Path="../PropertiesAndConstructors/PropertiesAndConstructors.csproj" Id="667c4578-d260-43e8-8889-641c083a69ee" />
+  <Project Path="../StaticClassesAndMemebers/StaticClassesAndMemebers.csproj" Id="4736ca5c-fb90-4796-90c0-95f70120ab6b" />
+  <Project Path="../StudentBookManagementWithIndexer/StudentBookManagementWithIndexer.csproj" />
+  <Project Path="Indexer.csproj" />
+</Solution>
