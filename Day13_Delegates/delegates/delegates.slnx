@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../MulticastDelegates/MulticastDelegates.csproj" />
+  <Project Path="delegates.csproj" />
+</Solution>
