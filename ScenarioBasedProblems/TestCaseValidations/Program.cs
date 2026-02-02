@@ -1,5 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
+using Assert = NUnit.Framework.Assert;
+
 
 namespace TestCaseValidations
 {
@@ -65,7 +67,7 @@ namespace TestCaseValidations
             Program account = new Program(100);
             account.Deposit(50);
 
-            NUnit.Framework.Assert.AreEqual(150, account.Balance);
+            Assert.AreEqual(150, account.Balance);
         }
 
         /// <summary>
@@ -78,7 +80,7 @@ namespace TestCaseValidations
 
             var ex = Assert.Throws<Exception>(() => account.Deposit(-10));
 
-            NUnit.Framework.Assert.AreEqual("Deposit amount cannot be negative", ex.Message);
+            Assert.AreEqual("Deposit amount cannot be negative", ex.Message);
         }
 
         /// <summary>
@@ -90,7 +92,7 @@ namespace TestCaseValidations
             Program account = new Program(100);
             account.Withdraw(40);
 
-            NUnit.Framework.Assert.AreEqual(60, account.Balance);
+            Assert.AreEqual(60, account.Balance);
         }
 
         /// <summary>
@@ -103,7 +105,7 @@ namespace TestCaseValidations
 
             var ex = Assert.Throws<Exception>(() => account.Withdraw(200));
 
-            NUnit.Framework.Assert.AreEqual("Insufficient funds.", ex.Message);
+            Assert.AreEqual("Insufficient funds.", ex.Message);
         }
     }
 }
