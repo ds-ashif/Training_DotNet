@@ -41,8 +41,7 @@ public class Seat
 public class SeatBookingService
 {
     // Thread-safe collection storing seats
-    private readonly ConcurrentDictionary<int, Seat> _seats =
-        new ConcurrentDictionary<int, Seat>();
+    private readonly ConcurrentDictionary<int, Seat> _seats = new ConcurrentDictionary<int, Seat>();
 
     // Initialize seats
     public SeatBookingService(int totalSeats)
@@ -74,14 +73,10 @@ class Program
         var service = new SeatBookingService(1);
 
         // Thread representing User A booking
-        Thread t1 = new Thread(() =>
-            Console.WriteLine("UserA booking: " +
-                service.BookSeat(1, "UserA")));
+        Thread t1 = new Thread(() => Console.WriteLine("UserA booking: " + service.BookSeat(1, "UserA")));
 
         // Thread representing User B booking at same time
-        Thread t2 = new Thread(() =>
-            Console.WriteLine("UserB booking: " +
-                service.BookSeat(1, "UserB")));
+        Thread t2 = new Thread(() => Console.WriteLine("UserB booking: " + service.BookSeat(1, "UserB")));
 
         // Start concurrent booking attempts
         t1.Start();
