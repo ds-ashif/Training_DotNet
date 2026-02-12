@@ -74,12 +74,13 @@ class Program
             int[] merged = MergeSortedArrays(arr1,arr2);
 
             Console.Write("Sorted merged array: ");
-            foreach(var item in merged)
-            {
+            // foreach(var item in merged)
+            // {
                 
-                Console.Write($"{item} ");
+            //     Console.Write($"{item} ");
 
-            }
+            // }
+            Console.WriteLine(string.Join(", ",merged));
 
 
             
