@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <EmployeeId>1</EmployeeId>
+    <FullName>Asha Kumar</FullName>
+    <Department>IT</Department>
+  </Table>
+  <Table>
+    <EmployeeId>2</EmployeeId>
+    <FullName>Ravi Sharma</FullName>
+    <Department>HR</Department>
+  </Table>
+  <Table>
+    <EmployeeId>3</EmployeeId>
+    <FullName>Meera Iyer</FullName>
+    <Department>Finance</Department>
+  </Table>
+</NewDataSet>
